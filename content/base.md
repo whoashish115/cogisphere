@@ -1,5 +1,5 @@
 ---
-title: 🍓 Base
+title: 🔰 Base
 ---
 
 Hi
